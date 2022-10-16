@@ -8,3 +8,5 @@ Cfg for easy strafes and other features
 63-67 some cool commands
 
 71-75 no shadows while flashlight off
+
+download:https://github.com/Murcklack/Cfg-null-alias/archive/c897dff9ff9355aa51f4f7c09c8fbb51621a4e81.zip
