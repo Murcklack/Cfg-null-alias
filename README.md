@@ -7,6 +7,6 @@ Lines:25-61 strafe script -  f on/of
 
 Lines:63-67 some cool commands
 
-Lines:71-75  no shadows while flashlight off
+Lines:71-75  no shadows while flashlight off(by Murcklack)
 
 
