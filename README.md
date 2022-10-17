@@ -1,5 +1,5 @@
 # Cfg-null-alias
-Cfg for easy strafes and other features
+Cfg for easy strafes and other features in sourse games
 
 1-23 long jump script - l on/off -- jumping on right click
 
